@@ -17,6 +17,6 @@ https://github.com/AusMicrobiome/contextualdb_doc/tree/main
  
  #### 1.2.3
  
-• Version 1.2.3 was made avaialble on the Australian Microbiome Initiative website (https://www.australianmicrobiome.com/protocols/) on 18/01/2021 and is being tagged here as the initial commit. 
+• Version 1.2.3 was made available on the Australian Microbiome Initiative website (https://www.australianmicrobiome.com/protocols/) on 18/01/2021 and is being tagged here as the initial commit. 
 
 •	Version 1.2 with metadata method numbers was made available on the Australian Microbiome Initiative website (https://www.australianmicrobiome.com/protocols/) May 2020. Subsequent version numbers, e.g., 1.2.x reflects additions of new methodologies to the manual with no deletions, substitutions or changes to existing methods. 
