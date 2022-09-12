@@ -1,3 +1,7 @@
+# This page is no longer active. 
+## The AM Scientific Manual Release v1.2.3 hosted here is a legacy version and not maintained. The current, and actively maintained manual is now hosted at:
+https://confluence.csiro.au/display/ASM/Ausmicrobiome+Scientific+Manual
+
 # Australian Microbiome Initiative Scientific Manual
 
 The Australian Microbiome Initiative Scientific Manual lists and describes the Standard Operating Procedures used to generate data for the Australian Microbiome Initiative. Protocols should be cited from the primary literature, not by reference to this document.  
